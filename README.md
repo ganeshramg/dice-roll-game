@@ -19,4 +19,4 @@ I created this game as a milestone in learning front end developemt using HTML 5
 1. getRandom - this will fetch a random number between 1 and 6 inclusive
 2. roll - this will fetch two random numbers, assign it to variables, compares, and changes the contents like image of the dice, and who won the game
 
-![](exmapleimage.png)
+<img src="exampleimage.png"></img>
